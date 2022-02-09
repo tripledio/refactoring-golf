@@ -1,0 +1,13 @@
+.idea
+*.iml
+target
+.gradle
+build
+.project
+.classpath
+.settings
+.pmd
+gradle
+gradle/wrapper
+**/.idea
+.DS_Store
