@@ -37,7 +37,7 @@ Allow yourselves a maximum of 2 attempts at each round to determine your best sc
 
 ## Acknowledgements:
 
-The original Golf Refactor, including the above instructions, come from  @jasongorman's [Refactoring Golf repo]{https://github.com/jasongorman/RefactoringGolfJava} where he uses Fibonaci as exercise.
-The HomeCalculator exercise for the Golf refactor comes from [David Denton]{https://github.com/daviddenton/refactoring-golf}
-The Typescript version of  comes from [@codurance]{https://github.com/codurance/refactoring-golf-typescript}
+The original Golf Refactor, including the above instructions, come from  @jasongorman's [Refactoring Golf repo](https://github.com/jasongorman/RefactoringGolfJava) where he uses Fibonacci as exercise.
+The HomeCalculator exercise for the Golf refactor comes from [David Denton](https://github.com/daviddenton/refactoring-golf)
+The Typescript version of  comes from @codurance [repo](https://github.com/codurance/refactoring-golf-typescript)
 
